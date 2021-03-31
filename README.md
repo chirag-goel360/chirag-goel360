@@ -86,16 +86,16 @@ I'm open-source development enthusiast.
 </p>
 
 
-<h3 align="center">A passionate fullstack developer from India</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
+<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2021)</h3>
 
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 
-- 🔭 I’m currently working on **vKarma Webapp**
-- 🌱 I’m currently learning ... **Django and React.js**
-- 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
+- 🔭 I’m currently working on **Flutter**
+- 🌱 I’m currently learning ... **C# and React.js**
+- 💬 Ask me about ... **Web Development and Android Development**
+- 😄 Employement ... **Open for job opportunities**
 - ⚡ Fun fact ... **Anime**❤
 - 📫 How to reach me **<a href="mailto:sachinverma53121@gmail.com">sachinverma53121@gmail.com</a>**
 <h4>Programming Languages: </h4>
