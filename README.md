@@ -82,7 +82,7 @@ I'm open-source development enthusiast.
   <a href="https://www.instagram.com/chirag.goel360/">
     <img src="https://img.shields.io/badge/instagram-chiraggoel_-red">
   </a>
-  <span> <img src=https://komarev.com/ghpvc/?username=sachuverma alt=sachuverma/></span>
+  <span> <img src=https://komarev.com/ghpvc/?username=chirag-goel360 alt=chiraggoel/></span>
 </p>
 
 
