@@ -1,6 +1,5 @@
 # Rohan Kumar Dubey
 
-[![Github](https://img.shields.io/github/followers/rohankumar997?label=Follow&style=social)](https://github.com/rohankumar997)
 
 ## About me 
 I'm a software development engineer. I like to work with Python, C++, Java, Javascript. I love Linux Kernel based OSs such as Ubuntu, MintOS, Kali Linux, Parrot OS and CentOS.
@@ -15,7 +14,7 @@ I'm open-source development enthusiast.
   <a href="https://www.instagram.com/chirag.goel360/">
     <img src="https://img.shields.io/badge/instagram-chiraggoel_-red">
   </a>
-  <span> <img src=https://komarev.com/ghpvc/?username=chirag-goel360 alt=chiraggoel/></span>
+  <span> <img src=https://komarev.com/ghpvc/?username=chirag-goel360 alt=chirag-goel360/></span>
 </p>
 
 
@@ -23,6 +22,7 @@ I'm open-source development enthusiast.
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2021)</h3>
 
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+[![Github](https://img.shields.io/github/followers/chirag-goel360?label=Follow&style=social)](https://github.com/chirag-goel360)
 
 
 - 🔭 I’m currently working on **Flutter**
@@ -78,29 +78,18 @@ I'm open-source development enthusiast.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 
 
-<h4>Desktop Environment: </h4>
-<p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/slack.png" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/vsc.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/atom.png" alt=atom width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/linux.png" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/win10.png" alt=windows10 width="60" height="60"/>
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachuverma&count_private=true&show_icons=true" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachuverma&layout=compact" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=chirag-goel360&count_private=true&show_icons=true" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-goel360&layout=compact" height="170px">
 </p>
 
 
 <p align="center">
-<a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="sachuverma" height="40" width="40" /></a>
-<a href=https://twitter.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="sachuverma_" height="40" width="40" /></a>
-<a href=https://linkedin.com/in/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sachuverma" height="40" width="40" /></a>
-<a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
+<a href=https://codepen.io/chirag-goel360 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="chirag-goel360" height="40" width="40" /></a>
+<a href=https://www.linkedin.com/in/chirag-goel-06b804148 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="chirag-goel-06b804148" height="40" width="40" /></a>
+<a href=https://www.instagram.com/chirag.goel360 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="chirag.goel360" height="40" width="40" /></a>
 </p>
 
-⭐️ From [Sachin Verma](https://github.com/sachuverma) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```El Psy Kongroo```
+⭐️ From [Chirag Goel](https://github.com/chirag-goel360) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```Hello World```
 
 
