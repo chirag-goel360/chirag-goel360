@@ -1,17 +1,11 @@
 # Rohan Kumar Dubey
 
 [![Github](https://img.shields.io/github/followers/rohankumar997?label=Follow&style=social)](https://github.com/rohankumar997)
-[![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/)
-[![Mail](https://img.shields.io/badge/-rohan.rohankumar.kumar51@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rohan.rohankumar.kumar51@gmail.com)
-
 
 ## About me 
 I'm a software development engineer. I like to work with Python, C++, Java, Javascript. I love Linux Kernel based OSs such as Ubuntu, MintOS, Kali Linux, Parrot OS and CentOS.
 I'm open-source development enthusiast.
 
-### Interesting stats
-
-[![Chirag's stats](https://github-readme-stats.vercel.app/api?username=chirag-goel360&show_icons=true)]
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Chirag Goel</h1>
  <p align="center"><br/>
@@ -72,6 +66,7 @@ I'm open-source development enthusiast.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 
 
 <h4>Desktop Environment: </h4>
