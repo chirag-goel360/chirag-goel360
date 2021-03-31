@@ -15,6 +15,7 @@ I'm open-source development enthusiast.
     <img src="https://img.shields.io/badge/instagram-chiraggoel_-red">
   </a>
   <span> <img src=https://komarev.com/ghpvc/?username=chirag-goel360 alt=chirag-goel360/></span>
+  <span> <img src=https://img.shields.io/github/followers/chirag-goel360?label=Follow&style=social/></span>
 </p>
 
 
@@ -22,7 +23,6 @@ I'm open-source development enthusiast.
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2021)</h3>
 
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
-[![Github](https://img.shields.io/github/followers/chirag-goel360?label=Follow&style=social)](https://github.com/chirag-goel360)
 
 
 - 🔭 I’m currently working on **Flutter**
