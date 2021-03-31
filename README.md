@@ -1,11 +1,3 @@
-# Rohan Kumar Dubey
-
-
-## About me 
-I'm a software development engineer. I like to work with Python, C++, Java, Javascript. I love Linux Kernel based OSs such as Ubuntu, MintOS, Kali Linux, Parrot OS and CentOS.
-I'm open-source development enthusiast.
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Chirag Goel</h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/chirag-goel-06b804148/">
