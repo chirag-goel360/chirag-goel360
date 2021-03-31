@@ -96,16 +96,10 @@ I'm open-source development enthusiast.
 - 🌱 I’m currently learning ... **C# and React.js**
 - 💬 Ask me about ... **Web Development and Android Development**
 - 😄 Employement ... **Open for job opportunities**
-- ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **<a href="mailto:sachinverma53121@gmail.com">sachinverma53121@gmail.com</a>**
-<h4>Programming Languages: </h4>
-<p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/python.png" alt=python width="60" height="60"/>
-</p>
+- ⚡ Fun fact ... **Cartoon**❤
+- 📫 How to reach me **<a href="mailto:chirag.goel360@gmail.com">chirag.goel360@gmail.com</a>**
 
-<h4>Skills and Tools: </h4>
+<h4>Language,Skills and Tools: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/adobexd.png" alt=adobexd width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/html5.png" alt=html5 width="60" height="60"/> 
