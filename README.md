@@ -25,7 +25,7 @@
 - 😄 Employement ... **Open for job opportunities**
 - ⚡ Fun fact ... **Cartoon**❤
 - 📫 How to reach me **<a href="mailto:chirag.goel360@gmail.com">chirag.goel360@gmail.com</a>**
-- ⚡ Fun fact: ... The Best is yet to come..!
+- ⚡ Intresting fact: ... The Best is yet to come..!
 
 ## Language,Skills and Tools:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
