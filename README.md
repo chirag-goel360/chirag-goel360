@@ -67,6 +67,15 @@ I'm open-source development enthusiast.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 
 
 <h4>Desktop Environment: </h4>
