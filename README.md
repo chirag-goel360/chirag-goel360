@@ -15,6 +15,7 @@
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2021)</h3>
 
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+<br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LHZyixOnHwDDy/source.gif" />
 
 
