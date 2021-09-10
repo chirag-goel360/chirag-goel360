@@ -12,14 +12,14 @@
 
 
 <h3 align="center">A passionate Android developer from India</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2021)</h3>
+<h3 align="center">Bachelor in Engineering, Computer Science (Graduated in 2021)</h3>
 
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 <img width="30%" align="right" alt="GIF" src="https://media.giphy.com/media/LHZyixOnHwDDy/source.gif" />
 
 
-- 🔭 I’m currently working on **Flutter**
-- 🌱 I’m currently learning ... **C# and React.js**
+- 🔭 I’m currently working on **Flutter, Javascript, ASP.NET**
+- 🌱 I’m currently learning ... **Javascript and React.js**
 - 💬 Ask me about ... **Web Development and Android Development**
 - 👯 I’m looking to collaborate on ... Flutter
 - 🤔 I’m looking for help with ... JavaScript
