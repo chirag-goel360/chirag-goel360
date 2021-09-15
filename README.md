@@ -18,7 +18,7 @@
 <img width="30%" align="right" alt="GIF" src="https://media.giphy.com/media/LHZyixOnHwDDy/source.gif" />
 
 
-- 🔭 I’m currently working on **Flutter, Javascript, ASP.NET**
+- 🔭 I’m currently working on **Flutter, Javascript, ASP.NET, Sitecore**
 - 🌱 I’m currently learning ... **Javascript and React.js**
 - 💬 Ask me about ... **Web Development and Android Development**
 - 👯 I’m looking to collaborate on ... Flutter
